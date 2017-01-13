@@ -10,3 +10,9 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+.idea/
+spring_boot_1/.gitignore
+spring_boot_1/.mvn/wrapper/maven-wrapper.jar
+spring_boot_1/.mvn/wrapper/maven-wrapper.properties
+spring_boot_1/mvnw
+spring_boot_1/mvnw.cmd
