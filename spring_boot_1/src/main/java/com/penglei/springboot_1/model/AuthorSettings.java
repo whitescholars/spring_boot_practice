@@ -1,4 +1,4 @@
-package com.penglei.springboot_1.config;
+package com.penglei.springboot_1.model;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.stereotype.Component;
